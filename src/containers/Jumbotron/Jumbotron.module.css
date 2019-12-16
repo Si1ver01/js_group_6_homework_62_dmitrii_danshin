@@ -1,0 +1,8 @@
+.Jumbotron{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  background: linear-gradient(to right, #56ab2f, #a8e063);
+  padding: 0 20%;
+}
